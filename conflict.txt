@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello from main
-=======
-Hello from branch
->>>>>>> conflict-branch
+This is from MAIN branch
